@@ -69,7 +69,7 @@
 </table>
 
 
-<table border="1">
+<table border = "2">
  <tr>
   <td>
    reference speaker

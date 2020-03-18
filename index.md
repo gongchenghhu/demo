@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<audio src="/test/LJ005-0090.wav"  controls="controls" loop="loop" preload="auto" >
+<audio src="LJ005-0090.wav"  controls="controls" loop="loop" preload="auto" >
 </audio>
-<audio src="/test/LJ005-0090.wav" controls></audio>
+<audio src="test/LJ005-0090.wav" controls></audio>
 <audio src="/test/LJ005-0090.wav"  controls="controls" loop="loop" preload="auto" >
 </audio>
 

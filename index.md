@@ -68,7 +68,7 @@
 </tr>
 </table>
 
-<table border="1" width="300">
+<table border="1" width="300" tableframe=void>
  <tr>
   <td>
    reference speaker

@@ -1,5 +1,4 @@
-### internidt rusult
-
+### Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice
 <table border="0" width="300">
  <tr>
   <td>
@@ -30,6 +29,7 @@
 <td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
+ <tr>
  <td>two speaker enbedding</td>
 </tr>
  <tr>
@@ -53,7 +53,6 @@
   three speaker enbedding
   </td>
 </tr>
-<tr>
  <tr>
  <td>
   G&L
@@ -66,7 +65,7 @@
   WaveRNN
   </td>
 </tr>
-<td>0.5A+0.5B+0.5C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 </tr>
 </table>
 

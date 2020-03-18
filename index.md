@@ -1,4 +1,5 @@
 <h1>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</h1>
+<h2> LibriSpeech Result </h2>
 <table border = "0">
  <tr>
   <td>
@@ -69,7 +70,7 @@
 </tr>
 </table>
 
-
+<h2> M-AILABS Result </h2>
 <table border = "0">
  <tr>
   <td>

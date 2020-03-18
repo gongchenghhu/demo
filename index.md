@@ -35,8 +35,8 @@ Syntax highlighted code block
 <tr>
 <td>reference speaker</td>
 <td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>B</td>
-<td>C</td>
+<td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
 <tr>
 <td>row 2, cell 1</td>

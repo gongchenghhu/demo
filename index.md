@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<audio src="htmls/1.mp3"  controls="controls" loop="loop" preload="auto" >
+你的浏览器不支持video元素
+</audio>
 
 ### Jekyll Themes
 

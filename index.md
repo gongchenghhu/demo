@@ -1,5 +1,3 @@
-<p>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</p>
-
 <table border="0" width="300">
  <tr>
   <td>
@@ -70,7 +68,6 @@
 </tr>
 </table>
 
-<p></the second table>
 <table border="1" width="300">
  <tr>
   <td>

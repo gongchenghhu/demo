@@ -31,7 +31,7 @@ Syntax highlighted code block
 <audio src="/test/LJ005-0090.wav"  controls="controls" loop="loop" preload="auto" >
 </audio>
 
-<table border="0">
+<table border="0" width="400">
 <tr>
 <td>reference speaker</td>
 <td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>

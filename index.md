@@ -7,7 +7,7 @@
 <table border="0" width="300">
 <tr>
 <td>reference speaker</td>
-<td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td><p>A</p><audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 <td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
 <td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>

@@ -33,8 +33,10 @@ Syntax highlighted code block
 
 <table border="0">
 <tr>
-<td>row 1, cell 1</td>
-<td>row 1, cell 2</td>
+<td>reference speaker</td>
+<td>A</td>
+<td>B</td>
+<td>C</td>
 </tr>
 <tr>
 <td>row 2, cell 1</td>

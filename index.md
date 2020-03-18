@@ -34,7 +34,7 @@ Syntax highlighted code block
 <table border="0">
 <tr>
 <td>reference speaker</td>
-<td>A</td>
+<td>A<audio src="test/LJ005-0090.wav" controls></audio></td>
 <td>B</td>
 <td>C</td>
 </tr>

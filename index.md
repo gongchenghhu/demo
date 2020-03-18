@@ -8,12 +8,15 @@
 <tr>
 <td>reference speaker</td>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
 <tr>
+<td>single speaker enbedding</td>
+</tr>
+<tr>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>

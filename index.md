@@ -32,7 +32,7 @@
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
- <td>two speaker enbedding</td>
+ <td>two speakers embedding</td>
 </tr>
  <tr>
 <td>G&L</td>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
  <td>
-  three speaker enbedding
+  three speakers enbedding
   </td>
 </tr>
  <tr>
@@ -60,7 +60,7 @@
   G&L
   </td>
 </tr>
-<td>0.5A+0.5B+0.5C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
@@ -84,7 +84,7 @@
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
 <tr>
-<td>single speaker enbedding</td>
+<td>single speaker embedding</td>
 </tr>
  <tr>
 <td>G&L</td>
@@ -103,7 +103,7 @@
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
- <td>two speaker enbedding</td>
+ <td>two speakers enbedding</td>
 </tr>
  <tr>
 <td>G&L</td>
@@ -123,7 +123,7 @@
 </tr>
 <tr>
  <td>
-  three speaker enbedding
+  three speakers enbedding
   </td>
 </tr>
  <tr>
@@ -131,7 +131,7 @@
   G&L
   </td>
 </tr>
-<td>0.5A+0.5B+0.5C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>

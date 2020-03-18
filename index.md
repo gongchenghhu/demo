@@ -1,4 +1,4 @@
-<table border="0" width="300">
+<table border="0">
  <tr>
   <td>
    reference speaker
@@ -68,7 +68,7 @@
 </tr>
 </table>
 
-<table border="1" width="300" tableframe=void>
+<table border="1" >
  <tr>
   <td>
    reference speaker

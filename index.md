@@ -8,12 +8,13 @@
 <tr>
 <td>reference speaker</td>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
-<td><p>A</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>B</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
-<td>row 2, cell 2</td>
+<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>B</p><audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
 <td>row 3, cell 1</td>

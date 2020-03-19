@@ -8,9 +8,9 @@
   </td>
  </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioL/1.wav" controls width="10"></audio></td>
+<td>B<audio src="audioL/2.wav" controls></audio></td>
+<td>C<audio src="audioL/3.wav" controls></audio></td>
 </tr>
 <tr>
 <td>single speaker enbedding</td>
@@ -19,17 +19,17 @@
 <td>WaveRNN</td>
 </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioL/4.wav" controls width="10"></audio></td>
+<td>B<audio src="audioL/5.wav" controls></audio></td>
+<td>C<audio src="audioL/6.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
 </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioL/7.wav" controls width="10"></audio></td>
+<td>B<audio src="audioL/8.wav" controls></audio></td>
+<td>C<audio src="audioL/9.wav" controls></audio></td>
 </tr>
  <tr>
  <td>two speakers embedding</td>
@@ -38,17 +38,17 @@
 <td>WaveRNN</td>
 </tr>
 <tr>
-<td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>0.5B+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>0.5A+0.5B<audio src="audioL/10.wav" controls width="10"></audio></td>
+<td>0.5B+0.5C<audio src="audioL/11.wav" controls></audio></td>
+<td>0.5A+0.5C<audio src="audioL/12.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
 </tr>
 <tr>
-<td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>0.5B+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>0.5A+0.5B<audio src="audioL/13.wav" controls width="10"></audio></td>
+<td>0.5B+0.5C<audio src="audioL/14.wav" controls></audio></td>
+<td>0.5A+0.5C<audio src="audioL/15.wav" controls></audio></td>
 </tr>
 <tr>
  <td>
@@ -60,14 +60,14 @@
   WaveRNN
   </td>
 </tr>
-<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="audioL/16.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
   G&L
   </td>
 </tr>
-<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="audioL/17.wav" controls width="10"></audio></td>
 </tr>
 </table>
 
@@ -79,9 +79,9 @@
   </td>
  </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioL/1.wav" controls width="10"></audio></td>
+<td>B<audio src="audioL/2.wav" controls></audio></td>
+<td>C<audio src="audioL/3.wav" controls></audio></td>
 </tr>
 <tr>
 <td>single speaker embedding</td>
@@ -90,17 +90,17 @@
 <td>WaveRNN</td>
 </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioM/4.wav" controls width="10"></audio></td>
+<td>B<audio src="audioM/5.wav" controls></audio></td>
+<td>C<audio src="audioM/6.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
 </tr>
 <tr>
-<td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>B<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>A<audio src="audioM/7.wav" controls width="10"></audio></td>
+<td>B<audio src="audioM/8.wav" controls></audio></td>
+<td>C<audio src="audioM/9.wav" controls></audio></td>
 </tr>
  <tr>
  <td>two speakers enbedding</td>
@@ -109,17 +109,17 @@
 <td>WaveRNN</td>
 </tr>
 <tr>
-<td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>0.5B+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>0.5A+0.5B<audio src="audioM/10.wav" controls width="10"></audio></td>
+<td>0.5B+0.5C<audio src="audioM/11.wav" controls></audio></td>
+<td>0.5A+0.5C<audio src="audioM/12.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
 </tr>
 <tr>
-<td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
-<td>0.5B+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
-<td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
+<td>0.5A+0.5B<audio src="audioM/13.wav" controls width="10"></audio></td>
+<td>0.5B+0.5C<audio src="audioM/14.wav" controls></audio></td>
+<td>0.5A+0.5C<audio src="audioM/15.wav" controls></audio></td>
 </tr>
 <tr>
  <td>
@@ -131,13 +131,13 @@
   WaveRNN
   </td>
 </tr>
-<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="audioM/16.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
   G&L
   </td>
 </tr>
-<td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
+<td>0.33A+0.33B+0.33C<audio src="audioM/17.wav" controls width="10"></audio></td>
 </tr>
 </table>

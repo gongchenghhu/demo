@@ -16,7 +16,7 @@
 <td>single speaker enbedding</td>
 </tr>
  <tr>
-<td>G&L</td>
+<td>WaveRNN</td>
 </tr>
 <tr>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -24,7 +24,7 @@
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
-<td>WaveRNN</td>
+<td>G&L</td>
 </tr>
 <tr>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -35,7 +35,7 @@
  <td>two speakers embedding</td>
 </tr>
  <tr>
-<td>G&L</td>
+<td>WaveRNN</td>
 </tr>
 <tr>
 <td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -43,7 +43,7 @@
 <td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
-<td>WaveRNN</td>
+<td>G&L</td>
 </tr>
 <tr>
 <td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -57,14 +57,14 @@
 </tr>
  <tr>
  <td>
-  G&L
+  WaveRNN
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
-  WaveRNN
+  G&L
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -87,7 +87,7 @@
 <td>single speaker embedding</td>
 </tr>
  <tr>
-<td>G&L</td>
+<td>WaveRNN</td>
 </tr>
 <tr>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -95,7 +95,7 @@
 <td>C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
-<td>WaveRNN</td>
+<td>G&L</td>
 </tr>
 <tr>
 <td>A<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -106,7 +106,7 @@
  <td>two speakers enbedding</td>
 </tr>
  <tr>
-<td>G&L</td>
+<td>WaveRNN</td>
 </tr>
 <tr>
 <td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -114,7 +114,7 @@
 <td>0.5A+0.5C<audio src="test/LJ005-0090.wav" controls></audio></td>
 </tr>
  <tr>
-<td>WaveRNN</td>
+<td>G&L</td>
 </tr>
 <tr>
 <td>0.5A+0.5B<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
@@ -128,14 +128,14 @@
 </tr>
  <tr>
  <td>
-  G&L
+  WaveRNN
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
-  WaveRNN
+  G&L
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="test/LJ005-0090.wav" controls width="10"></audio></td>

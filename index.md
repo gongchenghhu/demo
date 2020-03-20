@@ -1,4 +1,4 @@
-<div style="display: block; margin: 0 auto; width: 100%; background: #ccc;">
+<div style="display: block; margin: 0 auto; width: 100%">
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:1100px;">
 <h1>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</h1>
 <p>Test sentence: "There is a way to measure the acute emotional intelligence that has never gone out of style."</p>

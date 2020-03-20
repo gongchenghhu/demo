@@ -81,7 +81,7 @@
 </tr>
 </table>
 </div>
-
+<div style="overflow-x: auto; overflow-y: auto; height: 800px; width:1100px;">
 <h2> M-AILABS Result </h2>
 <table border = "0">
  <tr>
@@ -93,6 +93,7 @@
 <td>A<audio src="audioL/1.wav" controls width="10"></audio></td>
 <td>B<audio src="audioL/2.wav" controls></audio></td>
 <td>C<audio src="audioL/3.wav" controls></audio></td>
+ <td>D<audio src="m20/1.wav" controls></audio></td>
 </tr>
 <tr>
 <td>single speaker embedding</td>
@@ -104,6 +105,7 @@
 <td>A<audio src="audioM/4.wav" controls width="10"></audio></td>
 <td>B<audio src="audioM/5.wav" controls></audio></td>
 <td>C<audio src="audioM/6.wav" controls></audio></td>
+ <td>D<audio src="m20/2.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
@@ -112,6 +114,7 @@
 <td>A<audio src="audioM/7.wav" controls width="10"></audio></td>
 <td>B<audio src="audioM/8.wav" controls></audio></td>
 <td>C<audio src="audioM/9.wav" controls></audio></td>
+ <td>D<audio src="m20/3.wav" controls></audio></td>
 </tr>
  <tr>
  <td>two speakers enbedding</td>
@@ -123,6 +126,7 @@
 <td>0.5A+0.5B<audio src="audioM/10.wav" controls width="10"></audio></td>
 <td>0.5B+0.5C<audio src="audioM/11.wav" controls></audio></td>
 <td>0.5A+0.5C<audio src="audioM/12.wav" controls></audio></td>
+ <td>0.5A+0.5D<audio src="m20/4.wav" controls></audio></td>
 </tr>
  <tr>
 <td>G&L</td>
@@ -131,6 +135,7 @@
 <td>0.5A+0.5B<audio src="audioM/13.wav" controls width="10"></audio></td>
 <td>0.5B+0.5C<audio src="audioM/14.wav" controls></audio></td>
 <td>0.5A+0.5C<audio src="audioM/15.wav" controls></audio></td>
+ <td>0.5A+0.5D<audio src="m20/5.wav" controls></audio></td>
 </tr>
 <tr>
  <td>
@@ -143,6 +148,7 @@
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="audioM/16.wav" controls width="10"></audio></td>
+ <td>0.33A+0.33C+0.33D<audio src="m20/6.wav" controls width="10"></audio></td>
 </tr>
 <tr>
  <td>
@@ -150,5 +156,7 @@
   </td>
 </tr>
 <td>0.33A+0.33B+0.33C<audio src="audioM/17.wav" controls width="10"></audio></td>
+ <td>0.33A+0.33C+0.33D<audio src="m20/7.wav" controls width="10"></audio></td>
 </tr>
 </table>
+</div>

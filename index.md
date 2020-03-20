@@ -2,7 +2,7 @@
 <p>Test sentence: "There is a way to measure the acute emotional intelligence that has never gone out of style."</p>
 <h2> LibriSpeech Result </h2>
 <div style="overflow-x: auto; overflow-y: auto; height: 100px; width:200px;">
-<table border = "0">
+<table border = "1">
  <tr>
   <td>
    reference speaker

@@ -1,3 +1,4 @@
+<div style="display: block; margin: 0 auto; width: 50%; background: #ccc;">
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:1100px;">
 <h1>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</h1>
 <p>Test sentence: "There is a way to measure the acute emotional intelligence that has never gone out of style."</p>
@@ -159,4 +160,5 @@
  <td>0.33A+0.33C+0.33D<audio src="m20/7.wav" controls width="10"></audio></td>
 </tr>
 </table>
+</div>
 </div>

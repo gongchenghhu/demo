@@ -1,6 +1,7 @@
 <h1>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</h1>
 <p>Test sentence: "There is a way to measure the acute emotional intelligence that has never gone out of style."</p>
 <h2> LibriSpeech Result </h2>
+<div style="color:#00FF00">
 <table border = "0">
  <tr>
   <td>
@@ -77,6 +78,7 @@
 <td>0.33A+0.33C+0.33D<audio src="l20/7.wav" controls width="10"></audio></td>
 </tr>
 </table>
+</div>
 
 <h2> M-AILABS Result </h2>
 <table border = "0">

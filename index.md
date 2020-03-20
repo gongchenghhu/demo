@@ -1,8 +1,8 @@
 <h1>Use intermediate speaker representation in multi-speaker TTS system to generate a new speakers’ voice</h1>
 <p>Test sentence: "There is a way to measure the acute emotional intelligence that has never gone out of style."</p>
 <h2> LibriSpeech Result </h2>
-<div style="overflow-x: auto; overflow-y: auto; height: 800px; width:600px;">
-<table border = "1">
+<div style="overflow-x: auto; overflow-y: auto; height: 800px; width:1200px;">
+<table border = "0.5">
  <tr>
   <td>
    reference speaker
